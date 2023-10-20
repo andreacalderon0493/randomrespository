@@ -1,1 +1,3 @@
 # randomrespository
+
+type random 
